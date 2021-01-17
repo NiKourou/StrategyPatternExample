@@ -11,7 +11,7 @@ public abstract class Duck {
 	 * Constructor.
 	 */
 	public Duck() {
-		//
+		// empty constructor
 	}
 
 	/**
